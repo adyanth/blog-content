@@ -1,1 +1,1 @@
-# blog-content
+# Blog Content Repo
